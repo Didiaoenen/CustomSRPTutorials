@@ -1,0 +1,16 @@
+# ignores following folders
+
+.vs/
+.vscode/
+Library/
+Logs/
+obj/
+Temp/
+ShaderIncludes/
+.vsconfig
+*.csproj
+*.sln
+Build/
+shadertoolsconfig.json
+com.unity.render-pipelines.core/
+com.unity.render-pipelines.universal/
